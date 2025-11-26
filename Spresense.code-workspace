@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "251020-203112-spresense",
+			"path": "."
+		},
+		{
+			"name": "Pico Uart Forwarder",
+			"path": "../../../../../Programming_Projects/AeroNU/Raspberry_Pi_Pico_UART_Forwarder/Pico Uart Forwarder"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
